@@ -1,4 +1,4 @@
-name: Test de workflow
+name: Simple workflow
 
 on:
   workflow_dispatch:
